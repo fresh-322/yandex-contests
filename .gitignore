@@ -4,7 +4,9 @@
 *.dSYM
 .vscode/
 .idea/
+
 *
 !*/
 !*.cpp
-!.gitignore
+.gitignore
+
